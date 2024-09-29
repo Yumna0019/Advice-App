@@ -2,6 +2,10 @@
 
 A fun and interactive application that provides random pieces of advice. The app fetches advice from an external API and displays it in a minimalistic and easy-to-use interface, offering users valuable insights and motivational tips.
 
+## Live Demo
+
+Check out the live version of the app [here](https://aadvice-app.netlify.app/).
+
 ## Features
 
 - 🎲 **Random Advice**: Get a new piece of advice each time you refresh or press the "Get Advice" button.
